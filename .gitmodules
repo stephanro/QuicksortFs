@@ -1,0 +1,3 @@
+[submodule "Quicksort/SourceFiles/QueueFs"]
+	path = Quicksort/SourceFiles/QueueFs
+	url = https://github.com/stephanro/QueueFs.git
